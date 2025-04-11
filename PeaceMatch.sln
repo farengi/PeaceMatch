@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeaceMatch", "PeaceMatch\PeaceMatch.csproj", "{8A1BF8D8-01C1-4DEC-AF50-11B433C952DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1BF8D8-01C1-4DEC-AF50-11B433C952DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1BF8D8-01C1-4DEC-AF50-11B433C952DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1BF8D8-01C1-4DEC-AF50-11B433C952DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1BF8D8-01C1-4DEC-AF50-11B433C952DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98BFE9D0-07A3-4325-AC46-66C49FBF95D5}
+	EndGlobalSection
+EndGlobal
