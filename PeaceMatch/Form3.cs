@@ -107,6 +107,11 @@ namespace PeaceMatch
                 MessageBox.Show("country not found");
             }
         }
+        private void btnOpenMap_Click(object sender, EventArgs e)
+        {
+        Form4 mapForm = new Form4();
+        mapForm.Show();
+        }
     }
 }
 
